@@ -1,2 +1,3 @@
 My first readme
 edit
+THIS IS MY FIRST REPOSITORY AT ATLAS SCHOOL.
